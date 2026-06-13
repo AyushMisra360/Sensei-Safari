@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/your-username/your-repo-name/main/path-to-your-logo.png" alt="Project Logo" width="120" />
+  
 
   # SenseiSafari
 
